@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="175" title="My stuff" src="images/icons8-briefcase-400"><br>
+  <img height="175" title="My stuff" src="images/icons8-briefcase-400.png"><br>
   <b>My Stuff</b><br>
 </p>
 
