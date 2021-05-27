@@ -1,6 +1,6 @@
 <p align="center">
   <img height="175" title="My Work" src="images/icons8-briefcase-400.png"><br>
-  <b>My Stuff</b><br>
+  <b>My Work</b><br>
 </p>
 
 ---
