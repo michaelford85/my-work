@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="175" title="My stuff" src="static/flat-2126884.svg"><br>
+  <img height="175" title="My stuff" src="images/icons8-briefcase-400"><br>
   <b>My Stuff</b><br>
 </p>
 
@@ -9,7 +9,7 @@
 ## 2021
 - [Automating for impact: Getting started with Ansible hosted services](https://www.redhat.com/en/events/webinar/automating-impact-getting-started-with-ansible-hosted-services)
 - [Creating an Automated Enterprise with Red Hat and Hashicorp](https://primetime.bluejeans.com/a2m/events/playback/e0c34c7f-3cae-4ddc-81ea-ee4d4cc7c91a)
-<!-- - [Red Hat Mid-Central RHUG: Ansible Automation and ServiceNow -- Better Together]() -->
+- [Red Hat Mid-Central RHUG: Ansible Automation and ServiceNow -- Better Together](https://primetime.bluejeans.com/a2m/events/playback/89960ce9-2872-430b-a377-6d78164a3ff3)
 
 # Blog posts
 
