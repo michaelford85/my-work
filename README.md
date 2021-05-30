@@ -11,6 +11,7 @@
 - [Creating an Automated Enterprise with Red Hat and Hashicorp](https://primetime.bluejeans.com/a2m/events/playback/e0c34c7f-3cae-4ddc-81ea-ee4d4cc7c91a)
 - [Red Hat Mid-Central RHUG: Ansible Automation and ServiceNow -- Better Together](https://primetime.bluejeans.com/a2m/events/playback/89960ce9-2872-430b-a377-6d78164a3ff3)
 
+
 # Blog posts
 
 ## 2021
