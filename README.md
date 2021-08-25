@@ -15,6 +15,7 @@
 # Blog posts
 
 ## 2021
+- [Spin up a Kubernetes cluster for your CKA exam in minutes](https://mford.io/posts/easy-kubeadm-k8s-cluster/)
 - [Introduction and how to implement Blogging-as-a-Service](https://mford.io/posts/static-site-with-hugo-github/)
 
 ## 2019
