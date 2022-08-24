@@ -10,6 +10,7 @@
 - [Automating for impact: Getting started with Ansible Hosted Services](https://www.redhat.com/en/events/webinar/automating-impact-getting-started-with-ansible-hosted-services)
 - [Creating an Automated Enterprise with Red Hat Ansible and Hashicorp Terraform](https://primetime.bluejeans.com/a2m/events/playback/e0c34c7f-3cae-4ddc-81ea-ee4d4cc7c91a)
 - [Mid-Central Red Hat User Group: Ansible Automation and ServiceNow -- Better Together](https://primetime.bluejeans.com/a2m/events/playback/89960ce9-2872-430b-a377-6d78164a3ff3)
+- [(Ansiblefest 2021) NetDevOps The Network Developer Automation Experience](https://www.dropbox.com/s/mgscbacmydpc5k8/2022-08-24%20-%20Netdevops%20The%20Network%20Developer%20Automation%20Experience.mp4?dl=0)
 
 
 # Blog posts
