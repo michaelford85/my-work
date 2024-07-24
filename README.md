@@ -16,8 +16,8 @@
 # Blog posts
 
 ## 2024
-- [Practical Engineering: How I Set Up and Manage My Home Network]([https://mford.io/posts/easy-kubeadm-k8s-cluster/](https://mford.io/posts/managing-my-home-network-intro/))
-- [Ascender Installer for Hyperscalers]([https://mford.io/posts/easy-kubeadm-k8s-cluster/](https://ciq.com/blog/ascender-installer-for-hyperscalers/))
+- [Practical Engineering: How I Set Up and Manage My Home Network](https://mford.io/posts/managing-my-home-network-intro/))
+- [Ascender Installer for Hyperscalers](https://ciq.com/blog/ascender-installer-for-hyperscalers/))
 
 ## 2021
 - [Spin up a Kubernetes cluster for your CKA exam in minutes](https://mford.io/posts/easy-kubeadm-k8s-cluster/)
