@@ -16,6 +16,7 @@
 # Blog posts
 
 ## 2024
+- [Streamlining Home Network Services with Containerization](https://mford.io/posts/streamlining-home-network-services-with-containerization/)
 - [Practical Engineering: How I Set Up and Manage My Home Network](https://mford.io/posts/managing-my-home-network-intro/)
 - [Ascender Installer for Hyperscalers](https://ciq.com/blog/ascender-installer-for-hyperscalers/)
 
